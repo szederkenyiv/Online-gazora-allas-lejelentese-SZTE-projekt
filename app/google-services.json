@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256262467617",
+    "project_id": "gas-meter-892d1",
+    "storage_bucket": "gas-meter-892d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256262467617:android:6253b37b2a34b4bdd83360",
+        "android_client_info": {
+          "package_name": "com.example.gas_meter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoovt1zxPzXH50miqykMZcxk40wRR35E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
